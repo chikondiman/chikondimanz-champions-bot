@@ -24,6 +24,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     puts "do  you still need in encouragement?"
     needs_encouragement = gets.chomp
     break if needs_encouragement.downcase == "no"
+    puts "ite coo coo"
        end
         
 10.times do
