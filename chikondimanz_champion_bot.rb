@@ -15,7 +15,12 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     else puts "ah, carry on then"
     
     end
-    
+
+if name == "chikondi" 
+    puts "so you're the leader champion to restore peace throughout the world huh, tight g"
+else
+end
+
     puts "do you need encouragement? (yes/no)"
     needs_encouragement = gets.chomp
     
