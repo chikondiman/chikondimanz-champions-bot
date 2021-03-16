@@ -32,7 +32,7 @@ end
     puts "ite coo coo"
        end
         
-33.times do
+77.times do
 puts "you can do it"
 puts "YOU CAN DO IT"
 end
