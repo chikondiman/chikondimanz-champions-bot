@@ -35,4 +35,13 @@ end
 77.times do
 puts "you can do it"
 puts "YOU CAN DO IT"
+
+puts "on a scale of 1-10 how much motivation do you have?"
+motivation = gets.chomp
+
+while motivation < 7
+puts "what doesn't kill you makes you strongs"
+puts "how about now?"
+motivation = gets.chomp
 end
+puts "good, now go kill it"
