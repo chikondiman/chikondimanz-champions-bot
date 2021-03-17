@@ -45,3 +45,18 @@ puts "how about now?"
 motivation = gets.chomp
 end
 puts "good, now go kill it"
+
+puts "What is your Champion's name?'"
+champion_name = gets.chomp
+puts "your password "
+redact = gets.chomp
+
+words = text.split(" ")
+
+words.each do |word|
+  if word != redact
+    print word + " "
+  else
+    print "REDACTED "
+  end
+end
