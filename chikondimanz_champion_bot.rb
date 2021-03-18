@@ -61,11 +61,12 @@ words.each do |word|
   end
 end
 
-class Champion
+class Champion 
   
 
-  def initialize
-
-    
+  def initialize (name, birthday, talent)
+    @name = name
+    @birthday = birthday
+    @talent = talend
   end
 end
