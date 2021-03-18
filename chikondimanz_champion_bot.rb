@@ -60,3 +60,12 @@ words.each do |word|
     print "REDACTED "
   end
 end
+
+class Champion
+  
+
+  def initialize
+
+    
+  end
+end
