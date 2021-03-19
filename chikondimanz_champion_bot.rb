@@ -67,6 +67,11 @@ class Champion
   def initialize (name, birthday, talent)
     @name = name
     @birthday = birthday
-    @talent = talend
+    @talent = talent
   end
+
+
+
+
+
 end
