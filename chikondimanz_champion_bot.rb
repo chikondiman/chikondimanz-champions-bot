@@ -16,7 +16,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     
     end
 
-if name == "jayla" 
+if name == "juni" 
     puts "so you're the leader champion to restore peace throughout the world huh, tight g"
 else
 end
