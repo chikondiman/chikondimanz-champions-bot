@@ -8,7 +8,7 @@ class Champion
     @location = location
   end
 
-
+  
 
 
 
