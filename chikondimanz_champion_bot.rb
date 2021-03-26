@@ -1,3 +1,20 @@
+class Champion 
+  
+
+  def initialize (name, birthday, talent, location)
+    @name = name
+    @birthday = birthday
+    @talent = talent
+    @location = location
+  end
+
+
+
+
+
+end
+
+
 puts "I am searching for champions, do you believe that you are a champion?(yes/no)"
     is_champion = gets.chomp
 
@@ -65,17 +82,3 @@ words.each do |word|
   end
 end
 
-class Champion 
-  
-
-  def initialize (name, birthday, talent)
-    @name = name
-    @birthday = birthday
-    @talent = talent
-  end
-
-
-
-
-
-end
