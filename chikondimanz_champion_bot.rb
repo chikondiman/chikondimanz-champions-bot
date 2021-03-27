@@ -14,6 +14,7 @@ class Champion
 
 end
 
+def makeAchampion(is_champion, name, birthday, talent, location)
 
 puts "I am searching for champions, do you believe that you are a champion?(yes/no)"
     is_champion = gets.chomp
@@ -82,3 +83,4 @@ words.each do |word|
   end
 end
 
+end
