@@ -83,4 +83,5 @@ words.each do |word|
   end
 end
 
+makeAchampion("yes", "juni", "11.11.20", "pooping")
 end
