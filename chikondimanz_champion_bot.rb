@@ -57,7 +57,7 @@ end
 77.times do
 puts "you can do it"
 puts "YOU CAN DO IT"
-
+end
 puts "on a scale of 1-10 how much motivation do you have?"
 motivation = gets.chomp
 
