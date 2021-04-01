@@ -83,5 +83,5 @@ words = text.split(" ")
 #   end
 # end
 
-makeAchampion("yes", "juni", "11.11.20", "pooping")
+makeAchampion("yes", "juniper", "11.11.20", "pooping")
 end
