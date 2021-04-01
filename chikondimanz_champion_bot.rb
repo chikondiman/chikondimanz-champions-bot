@@ -75,13 +75,13 @@ redact = gets.chomp
 
 words = text.split(" ")
 
-words.each do |word|
-  if word != redact
-    print word + " "
-  else
-    print "REDACTED foo"
-  end
-end
+# words.each do |word|
+#   if word != redact
+#     print word + " "
+#   else
+#     print "REDACTED foo"
+#   end
+# end
 
 makeAchampion("yes", "juni", "11.11.20", "pooping")
 end
