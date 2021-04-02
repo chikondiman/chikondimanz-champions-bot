@@ -66,7 +66,7 @@ puts "what doesn't kill you makes you strongs"
 puts "how about now?"
 motivation = gets.chomp
 end
-puts "good, now go kill it"
+puts "good, now go kill it, forever and ever"
 
 puts "What is your Champion's name?'"
 champion_name = gets.chomp
@@ -75,13 +75,13 @@ redact = gets.chomp
 
 words = text.split(" ")
 
-# words.each do |word|
-#   if word != redact
-#     print word + " "
-#   else
-#     print "REDACTED foo"
-#   end
-# end
+words.each do |word|
+  if word != redact
+    print word + " "
+  else
+    print "REDACTED foo"
+  end
+end
 
-makeAchampion("yes", "juniper", "11.11.20", "pooping")
+makeAchampion("yes", "juniper", "11.11.20", "eating items")
 end
