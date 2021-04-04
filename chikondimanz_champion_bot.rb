@@ -66,7 +66,7 @@ puts "what doesn't kill you makes you strongs"
 puts "how about now?"
 motivation = gets.chomp
 end
-puts "good, now go kill it, forever and ever"
+puts "good, now go kill it, forever and ever! "
 
 puts "What is your Champion's name?'"
 champion_name = gets.chomp
