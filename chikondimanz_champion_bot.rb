@@ -43,7 +43,7 @@ else
   puts "so you're the champion that has come"
 end
 
-    puts "do you need encouragement? (yes/no)"
+    puts "tell me, do you need encouragement? (yes/no)"
     needs_encouragement = gets.chomp
     
     while needs_encouragement.downcase == "yes"
