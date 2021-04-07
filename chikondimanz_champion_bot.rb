@@ -62,7 +62,7 @@ puts "on a scale of 1-10 how much motivation do you have?"
 motivation = gets.chomp
 
 while motivation < 11
-puts "what doesn't kill you makes you strongs"
+puts "what doesn't kill you makes you stronger"
 puts "how about now?"
 motivation = gets.chomp
 end
