@@ -39,7 +39,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
 
 if name == "mufasa" 
     puts "so you're the leader champion to restore peace throughout the world huh, tight g"
-else`
+else
   puts "so you're the champion that has come"
 end
 
