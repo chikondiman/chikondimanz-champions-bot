@@ -26,7 +26,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     birthday = gets.chomp
     puts "And where were you born?"
     location = gets.chomp
-    puts "Finally, what is your talent?"
+    puts "Finally, what is your special talent?"
     talent = gets.chomp
     puts "Why yes you are the chosen champion #{name} born #{birthday} in #{location} with monumental strength in #{talent}. Pleasure to have your aquaintance. May blessing & favor be upon you and your children's children."
     
@@ -39,7 +39,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
 
 if name == "mufasa" 
     puts "so you're the leader champion to restore peace throughout the world huh, tight g"
-else
+else`
   puts "so you're the champion that has come"
 end
 
