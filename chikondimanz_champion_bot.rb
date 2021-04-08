@@ -38,9 +38,9 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     end
 
 if name == "mufasa" 
-    puts "so you're the leader champion to restore peace throughout the world huh, tight g"
+    puts "so you are the leader champion to restore peace throughout the world huh, tight g"
 else
-  puts "so you're the champion that has come"
+  puts "so you are the champion that has come"
 end
 
     puts "tell me, do you need encouragement? (yes/no)"
