@@ -37,7 +37,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     
     end
 
-if name == "mufasa" 
+if name == "MUFASA" 
     puts "so you are the leader champion to restore peace throughout the world huh, tight g"
 else
   puts "so you are the champion that has come"
