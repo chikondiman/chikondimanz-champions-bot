@@ -85,3 +85,12 @@ end
 
 makeAchampion("yes", "juniper", "11.11.20", "eating items")
 end
+
+def carryOn(response)
+
+  if response == "yes".upcase
+    puts "CARRY ME ONWARD CARRY ME, CARRY ME ONWARD OHHHHHHH"
+  else
+    puts "lay down then"
+
+end
