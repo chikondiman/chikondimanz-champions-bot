@@ -1,3 +1,6 @@
+
+
+
 class Champion 
   
 
@@ -37,7 +40,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     
     end
 
-if name == "MUFASA" 
+if name == "Jayla Janae Corley-Crusoe" 
     puts "so you are the leader champion to restore peace throughout the world huh, tight g"
 else
   puts "so you are the champion that has come"
