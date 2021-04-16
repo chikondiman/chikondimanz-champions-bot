@@ -62,7 +62,7 @@ puts "you can do it"
 puts "YOU CAN DO IT"
 puts "si se puede loco!"
 end
-puts "on a scale of 1-10 how much motivation do you have?"
+puts "On a scale of 1-10 how much motivation do you have?"
 motivation = gets.chomp
 
 while motivation < 11
