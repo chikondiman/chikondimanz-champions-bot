@@ -87,7 +87,7 @@ words.each do |word|
   end
 end
 
-makeAchampion("yes", "juniper", "11.11.20", "eating items")
+makeAchampion("yes", "jayla", "1.21.97", "eating good food and DJing")
 end
 
 def carryOn(response)
