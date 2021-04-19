@@ -95,6 +95,6 @@ def carryOn(response)
   if response == "yes".upcase
     puts "CARRY ME ONWARD CARRY ME, CARRY ME ONWARD OHHHHHHH"
   else
-    puts "lay down then"
+    puts "lay down then, chump"
 
 end
