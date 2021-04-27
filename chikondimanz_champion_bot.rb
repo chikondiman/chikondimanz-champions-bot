@@ -83,7 +83,7 @@ words.each do |word|
   if word != redact
     print word + " "
   else
-    print "REDACTED again foo!"
+    print "REDACTED again foo"
   end
 end
 
