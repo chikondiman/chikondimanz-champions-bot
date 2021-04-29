@@ -58,7 +58,7 @@ end
        end
         
        111.times do
-puts "you can do it!"
+puts "you can do it."
 puts "YOU CAN DO IT!"
 puts "si se puede loco!"
 end
