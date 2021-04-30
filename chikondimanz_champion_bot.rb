@@ -3,7 +3,7 @@
 
 class Champion 
   
-
+puts "hello men and women"
   def initialize (name, birthday, talent, location)
     @name = name
     @birthday = birthday
@@ -65,7 +65,7 @@ end
 puts "On a scale of 1-10, how much motivation do you have?"
 motivation = gets.chomp
 
-while motivation < 11
+while motivation < 33
 puts "what does not kill you makes you stronger"
 puts "how about now?"
 motivation = gets.chomp
