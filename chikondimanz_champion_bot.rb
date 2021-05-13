@@ -25,7 +25,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     if is_champion.downcase == "yes"
     puts "Ahhhhhh, how interesting, what's your name"
     name = gets.chomp
-    puts "I must also know, what's your birthday?"
+    puts "I must also know, what's your day of birth?"
     birthday = gets.chomp
     puts "And where were you born?"
     location = gets.chomp
