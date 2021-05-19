@@ -27,7 +27,7 @@ puts "I am searching for champions, do you believe that you are a champion?(yes/
     name = gets.chomp
     puts "I must also know, what's your day of birth?"
     birthday = gets.chomp
-    puts "And where were you born?"
+    puts "And where were you born, young champion?"
     location = gets.chomp
     puts "Lastly, what is your special talent?"
     talent = gets.chomprdfrgw
