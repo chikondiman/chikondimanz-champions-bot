@@ -19,7 +19,7 @@ end
 
 def makeAchampion(is_champion, name, birthday, talent, location)
 
-puts "I am searching for champions, do you believe that you are a champion?(yes/no)"
+puts "I am searching for champions, do you believe that you are a champion? (yes/no)"
     is_champion = gets.chomp
 
     if is_champion.downcase == "yes"
