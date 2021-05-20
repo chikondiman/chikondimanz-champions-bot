@@ -3,7 +3,7 @@
 
 class Champion 
   
-puts "Hello men and women of today..."
+puts "Hello men & women of today..."
   def initialize (name, birthday, talent, location)
     @name = name
     @birthday = birthday
