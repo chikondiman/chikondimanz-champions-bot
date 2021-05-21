@@ -29,7 +29,7 @@ puts "I am searching for champions, do you believe that you are a champion? (yes
     birthday = gets.chomp
     puts "And where were you born, champion?"
     location = gets.chomp
-    puts "Lastly, what is your special talent?"
+    puts "Lastly, and what is your special talent?"
     talent = gets.chomprdfrgw
     puts "Why yes you are the chosen champion #{name} born #{birthday} in #{location} with monumental strength and potential in #{talent}. Pleasure to have your aquaintance. May blessing & favor be upon you and your children's children."
     
