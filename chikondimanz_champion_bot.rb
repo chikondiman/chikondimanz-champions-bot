@@ -43,7 +43,7 @@ puts "I am searching for champions, do you believe that you are a champion? (YES
 if name == "Jayla Janae Corley-Crusoe" 
     puts "So you are the leader champion to restore peace throughout the world huh?"
 else
-  puts "So you are the champion that has come."
+  puts "So you are the champion that has come"
 end
 
     puts "Tell me, do you need encouragement? (yes/no)"
