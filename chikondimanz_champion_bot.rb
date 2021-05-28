@@ -98,3 +98,6 @@ def carryOn(response)
     puts "lay down then, chump"
 
 end
+
+
+champions_list = []
