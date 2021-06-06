@@ -34,7 +34,7 @@ puts "I am searching for champions, do you believe that you are a champion? (YES
     puts "Why you are the chosen champion #{name} born #{birthday} in #{location} with monumental strength and potential in #{talent}. Pleasure to have your aquaintance. May blessing & favor be upon you and your children's children."
     
     elsif is_champown.downcase == "maybe"
-      puts "Make up your mind, your indecision will be your demise."
+      puts "Make up your mind. Your indecision will be your demise."
     else 
       puts "well, carry on"
     
