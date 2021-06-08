@@ -18,6 +18,8 @@ puts "Hello men & women of today..."
 end
 
 chikondi = Champion.new("Chikondi", 063091,"Music", "Houston")
+jayla = Champion.new("Jayla", 012197,"Music", "Houston")
+juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
 def makeAchampion(is_champion, name, birthday, talent, location)
 
 puts "I am searching for champions, do you believe that you are a champion? (YES/NO)"
