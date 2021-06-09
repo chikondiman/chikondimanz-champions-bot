@@ -22,7 +22,7 @@ jayla = Champion.new("Jayla", 012197,"Music", "Houston")
 juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
 def makeAchampion(is_champion, name, birthday, talent, location)
 
-puts "I am searching for champions, do you believe that you are a champion? (YES/NO)"
+puts "I am searching for champions. Do you believe that you are a champion? (YES/NO)"
     is_champion = gets.chomp
 
     if is_champion.downcase == "yes"
