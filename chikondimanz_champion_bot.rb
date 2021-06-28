@@ -104,4 +104,4 @@ end
 
 
 champions_list = []
-champions_list[0] = "Juni"
+champions_list[0] = "juni"
