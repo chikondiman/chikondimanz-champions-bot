@@ -109,6 +109,6 @@ champions_list[1] = "philip"
 champions_list[2] = "chikondi"
 champions_list[3] = "jayla"
 champions_list[4] = "mika"
-champions_list[5] = "lulu"
+champions_list[5] = "lulu elaine"
 champions_list[5] = "mercy joyce"
 
