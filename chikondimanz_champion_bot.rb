@@ -105,10 +105,4 @@ end
 
 champions_list = []
 champions_list[0] = "juni"
-champions_list[1] = "philip"
-champions_list[2] = "chikondi"
-champions_list[3] = "jayla jenae"
-champions_list[4] = "mika"
-champions_list[5] = "lulu elaine"
-champions_list[5] = "mercy joyce"
-champions_list[5] = "ms. portia"
+
