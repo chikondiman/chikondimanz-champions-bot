@@ -108,3 +108,4 @@ champions_list[0] = "juni"
 
 champions_list[1] = "chikondi"
 champions_list[2] = "jayla"
+champions_list[3] = "MIKA"
