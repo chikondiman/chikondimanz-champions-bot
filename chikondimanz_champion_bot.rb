@@ -112,5 +112,5 @@ champions_list[3] = "mugisha"
 champions_list[4] = "ben"
 champions_list[5] = "kyle"
 champions_list[6] = "ale"
-champions_list[7] = "ale"
+champions_list[7] = "elaine"
 
