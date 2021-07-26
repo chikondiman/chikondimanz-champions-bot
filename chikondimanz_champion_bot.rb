@@ -114,4 +114,5 @@ champions_list[5] = "kyle"
 champions_list[6] = "ale"
 champions_list[7] = "elaine"
 champions_list[8] = "jaime"
+champions_list[9] = "max"
 p champions_list
