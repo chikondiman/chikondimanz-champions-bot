@@ -116,5 +116,5 @@ champions_list[7] = "elaine"
 champions_list[8] = "jaime"
 champions_list[9] = "max"
 champions_list[10] = "marcelo"
-champions_list[11] = "ROSE"
+champions_list[11] = "rose"
 p champions_list
