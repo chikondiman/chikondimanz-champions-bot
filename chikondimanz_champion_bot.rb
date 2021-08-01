@@ -117,4 +117,5 @@ champions_list[8] = "jaime"
 champions_list[9] = "max"
 champions_list[10] = "marcelo"
 champions_list[11] = "rose"
+champions_list[12] = "addae"
 p champions_list
