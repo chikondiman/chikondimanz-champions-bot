@@ -20,6 +20,8 @@ end
 chikondi = Champion.new("Chikondi", 063091,"Music", "Houston")
 jayla = Champion.new("Jayla", 012197,"Music", "Houston")
 juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
+champions_list = []
+
 def makeAchampion(is_champion, name, birthday, talent, location)
 
 puts "I am searching for champions. Do you believe that you are a champion? (yes/no)"
@@ -103,7 +105,7 @@ def carryOn(response)
 end
 
 
-champions_list = []
+
 champions_list[0] = "juni"
 
 champions_list[1] = "chikondi"
