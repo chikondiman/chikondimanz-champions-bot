@@ -77,7 +77,7 @@ puts "good! now go kill it, forever and ever! "
 
 puts "What is your name, champion?'"
 champion_name = gets.chomp
-puts "your password "
+puts "your password"
 redact = gets.chomp
 
 words = text.split(" ")
