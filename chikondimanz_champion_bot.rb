@@ -43,7 +43,7 @@ puts "I am searching for champions. Do you believe that you are a champion? (yes
     
     end
 
-if name == "Jayla Janae Corley-Crusoe first of her name." 
+if name == "Jayla" 
     puts "So you are the leader champion to restore peace throughout the world eh?"
 else
   puts "So you are the champion that has come."
