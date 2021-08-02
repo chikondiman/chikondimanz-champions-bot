@@ -48,7 +48,7 @@ puts "I am searching for champions. Do you believe that you are a champion? (yes
 if name == "Jayla" 
     puts "So you are the leader champion to restore peace throughout the world eh?"
 else
-  puts "So you are the champion that has come."
+  puts "So you are the champion that has come"
 end
 
     puts "Tell me, Do you need encouragement? (yes/no)"
