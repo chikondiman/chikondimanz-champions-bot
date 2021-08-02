@@ -59,7 +59,7 @@ end
     puts "do  you still need in encouragement?"
     needs_encouragement = gets.chomp
     break if needs_encouragement.downcase == "no"
-    puts "ite coo coo coo coo coo"
+    puts "ite coo coo coo"
        end
         
        99.times do
