@@ -41,7 +41,7 @@ puts "I am searching for champions. Do you believe that you are a champion? (yes
     elsif is_champown.downcase == "maybe"
       puts "Make up your mind, your indecision will be your demise."
     else 
-      puts "well, carry on."
+      puts "well, carry on then"
     
     end
 
