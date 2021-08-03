@@ -63,7 +63,7 @@ end
        end
         
        99.times do
-puts "you can do it."
+puts "you can do it!"
 
 puts "si se puede loco"
 end
