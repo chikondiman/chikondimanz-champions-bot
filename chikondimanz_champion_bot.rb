@@ -65,7 +65,7 @@ end
        99.times do
 puts "you can do it."
 
-puts "si se puede loco!"
+puts "si se puede loco"
 end
 puts "On a scale of 1-10, how much motivation do you have?"
 motivation = gets.chomp
