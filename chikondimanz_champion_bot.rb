@@ -1,9 +1,9 @@
 
-
+puts "Hello men & women of today..."
 
 class Champion 
   
-puts "Hello men & women of today..."
+
   def initialize (name, birthday, talent, location)
     @name = name
     @birthday = birthday
@@ -121,4 +121,5 @@ champions_list[10] = "marcelo"
 champions_list[11] = "rose"
 champions_list[12] = "addae"
 champions_list[13] = "andrew"
+
 p champions_list
