@@ -74,10 +74,10 @@ motivation = gets.chomp
 
 while motivation < 6
 puts "what does not kill you makes you stronger"
-puts "how about now???"
+puts "how about now?"
 motivation = gets.chomp
 end
-puts "good! now go kill it, forever and ever"
+puts "Good! now go kill it, forever and ever"
 
 puts "What is your name, champion?'"
 champion_name = gets.chomp
