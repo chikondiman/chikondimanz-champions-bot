@@ -82,16 +82,7 @@ puts "Good! now go kill it, forever and ever"
 puts "What is your name, champion?'"
 champion_name = gets.chomp
 puts "your password"
-redact = gets.chomp
 
-words = text.split(" ")
-
-words.each do |word|
-  if word != redact
-    print word + " "
-  else
-    print "REDACTED again foo"
-  end
 end
 
 makeAchampion("yes", "Jayla Janae Corley, First of her name", "1.21.97", "eating good food and DJing")
