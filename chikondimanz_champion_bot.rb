@@ -64,7 +64,7 @@ end
     puts "ite coo coo coo"
        end
         
-       99.times do
+       77.times do
 puts "you can do it!"
 
 puts "Si se puede!"
