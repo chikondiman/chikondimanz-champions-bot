@@ -115,4 +115,4 @@ champions_list[11] = "rose"
 champions_list[12] = "addae"
 champions_list[13] = "andrew"
 
-p champions_list
+p champions_list[7]
