@@ -91,7 +91,7 @@ end
 def carryOn(response)
 
   if response == "yes".upcase
-    puts "CARRY ME ONWARD CARRY ME, CARRY ME ONWARD, yezzir!"
+    puts "CARRY ME ONWARD CARRY ME, CARRY ME ONWARD!"
   else
     puts "lay down then, chump!"
 
@@ -115,4 +115,4 @@ champions_list[11] = "rose"
 champions_list[12] = "addae"
 champions_list[13] = "andrew"
 
-p champions_list[7]
+p champions_list[]
