@@ -75,7 +75,9 @@ motivation = gets.chomp
 while motivation <= 5
 puts "what does not kill you makes you stronger"
 puts "how about now?"
+puts "what's your potivation level?"
 motivation = gets.chomp
+
 end
 puts "Good! now go kill it, forever and ever"
 
