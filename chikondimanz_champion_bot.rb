@@ -1,6 +1,6 @@
 
 puts "Hello men & women of today..."
-
+champions_list = []
 class Champion 
   
 
@@ -20,7 +20,7 @@ end
 chikondi = Champion.new("Chikondi", 063091,"Music", "Houston")
 jayla = Champion.new("Jayla", 012197,"Music", "Houston")
 juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
-champions_list = []
+
 
 puts "I am searching for champions. Do you believe that you are a champion? (yes/no)"
 
