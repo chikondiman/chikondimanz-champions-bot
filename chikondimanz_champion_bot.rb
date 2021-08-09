@@ -50,7 +50,7 @@ def makeAchampion(is_champion, name, birthday, talent, location)
 if name == "Jayla" 
     puts "So you are the leader champion to restore peace throughout the world eh?"
 else
-  puts "So you are the champion that has come"
+  puts "So you are the champion that has come?"
 end
 
     puts "Tell me, Do you need encouragement? (yes/no)"
