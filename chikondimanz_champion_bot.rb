@@ -66,7 +66,6 @@ end
         
        11.times do
 puts "you can do it!"
-
 puts "Si se puede!"
 end
 puts "On a scale of 1-10, how much motivation do you have?"
