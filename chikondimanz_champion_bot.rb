@@ -81,7 +81,7 @@ motivation = gets.chomp
 end
 puts "Good! now go kill it, forever and ever"
 
-puts "What is your name, champion?'"
+puts "What is your name, champion?"
 champion_name = gets.chomp
 puts "your password"
 
