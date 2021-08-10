@@ -26,7 +26,6 @@ puts "I am searching for champions. Do you believe that you are a champion? (yes
 
 def makeAchampion(is_champion, name, birthday, talent, location)
 
-
     is_champion = gets.chomp
 
     if is_champion.downcase == "yes"
@@ -52,7 +51,6 @@ if name == "Jayla"
 else
   puts "So you are the champion that has come?"
 end
-
     puts "Tell me, Do you need encouragement? [yes/no]"
     needs_encouragement = gets.chomp
     
