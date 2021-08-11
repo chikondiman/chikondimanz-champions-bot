@@ -31,7 +31,7 @@ def makeAchampion(is_champion, name, birthday, talent, location)
     if is_champion.downcase == "yes"
     puts "Ah, how interesting. And what is your name?"
     name = gets.chomp
-    puts "I must also know. what is your day of birth?"
+    puts "I must also know. wWat is your day of birth?"
     birthday = gets.chomp
     puts "And where were you born, champion?"
     location = gets.chomp
