@@ -40,14 +40,14 @@ def makeAchampion(is_champion, name, birthday, talent, location)
     puts "Why you're the chosen champion #{name} born #{birthday} in #{location} with monumental strength and potential in #{talent}. Pleasure to have your aquaintance. May blessing & favor be upon you and your children's children."
     
     elsif is_champown.downcase == "maybe"
-      puts "Make up your mind, your indecision will be your demise."
+      puts "make up your mind, your indecision will be your demise."
     else 
       puts "well, carry on."
     
     end
 
 if name == "Jayla" 
-    puts "So you are the leader champion to restore peace throughout the world eh?"
+    puts "so you are the leader champion to restore peace throughout the world eh?"
 else
   puts "So you are the champion that has come?"
 end
