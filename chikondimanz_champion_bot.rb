@@ -51,7 +51,7 @@ if name == "Jayla"
 else
   puts "so you are the champion that has come?"
 end
-    puts "Tell me, Do you need encouragement? [yes/no]"
+    puts "tell me, do you need encouragement? [yes/no]"
     needs_encouragement = gets.chomp
     
     while needs_encouragement.downcase == "yes"
