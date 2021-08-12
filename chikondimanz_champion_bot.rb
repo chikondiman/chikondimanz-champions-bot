@@ -47,9 +47,9 @@ def makeAchampion(is_champion, name, birthday, talent, location)
     end
 
 if name == "Jayla" 
-    puts "so you are the leader champion to restore peace throughout the world eh?"
+    puts "So you are the leader champion to restore peace throughout the world eh?"
 else
-  puts "so you are the champion that has come?"
+  puts "So you are the champion that has come?"
 end
     puts "tell me, do you need encouragement? [yes/no]"
     needs_encouragement = gets.chomp
