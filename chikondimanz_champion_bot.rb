@@ -56,7 +56,7 @@ end
     
     while needs_encouragement.downcase == "yes"
     puts "If you can believe it you are half way there"
-    puts "do you still need in encouragement?"
+    puts "Do you still need in encouragement?"
     needs_encouragement = gets.chomp
     break if needs_encouragement.downcase == "no"
     puts "ite  coo "
