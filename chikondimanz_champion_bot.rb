@@ -22,7 +22,9 @@ jayla = Champion.new("Jayla", 012197,"Music", "Houston")
 juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
 
 
+def start()
 puts "I am searching for champions. Do you believe that you're a champion? (yes/no)"
+end
 
 def makeAchampion(is_champion, name, birthday, talent, location)
 
