@@ -23,7 +23,7 @@ juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
 
 
 def start()
-  
+  chikondi 
 puts "I am searching for champions. Do you believe that you're a champion? (yes/no)"
 end
 
