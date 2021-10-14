@@ -23,6 +23,7 @@ juni = Champion.new("Juni", 111120,"Dog Commands", "Houston")
 
 
 def start()
+  
 puts "I am searching for champions. Do you believe that you're a champion? (yes/no)"
 end
 
@@ -65,8 +66,9 @@ end
        end
         
        11.times do
+        puts "Si se puede!"
 puts "You can do it!"
-puts "Si se puede!"
+
 end
 puts "On a scale of 1-10, how much motivation do you have?"
 motivation = gets.chomp
